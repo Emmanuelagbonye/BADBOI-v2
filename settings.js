@@ -23,7 +23,7 @@ global.themeemoji = '🪀'
 global.wm = "BADBOI HACKER Tech."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
+global.link = 'https://wa.me/qr/MY2JIUSBX5FJD1'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
